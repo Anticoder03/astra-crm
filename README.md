@@ -1,10 +1,10 @@
 # Astra CRM - Customer Relationship Management System
 
-![Astra CRM](https://via.placeholder.com/800x400?text=Astra+CRM)
+
 
 Astra CRM is a modern, feature-rich Customer Relationship Management system built with Laravel. It helps businesses manage their customer relationships, track investments, and maintain follow-ups efficiently.
 
-Copyright © 2024 Anticoder03. All rights reserved.
+Copyright © 2025 Anticoder03. All rights reserved.
 
 ## 🌟 Features
 
